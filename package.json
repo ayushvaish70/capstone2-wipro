@@ -1,0 +1,22 @@
+{
+  "name": "cypress-practice",
+  "version": "1.0.0",
+  "description": "This project contains automated tests for an e-commerce website using Cypress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.14.2"
+  },
+  "devDependencies": {
+    "axe-core": "^4.10.0",
+    "cypress-axe": "^1.5.0",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "mochawesome": "^7.1.3",
+    "mochawesome-report-generator": "^6.2.0"
+  }
+}
